@@ -1,0 +1,4 @@
+stress: info: [7724] dispatching hogs: 0 cpu, 0 io, 1 vm, 0 hdd
+stress: FAIL: [7724] (415) <-- worker 7725 got signal 9
+stress: WARN: [7724] (417) now reaping child worker processes
+stress: FAIL: [7724] (451) failed run completed in 163s
